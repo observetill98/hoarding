@@ -1,0 +1,13 @@
+Generated using tree.sh, taken from https://github.com/173duprot/harm-less
+
+Hoarding
+├── Archival  
+│   ├── Anything - archive.today, then Cmd+S -> Webpage, single file
+│   ├── Instagram - You can download your own data from Insta and then download all your liked and bookmarked posts using my scripts in /scripts
+│   ├── Reddit - Refer to Anything
+│   ├── Twitter - Exporting your data won't help with Bookmarks, so you should use github.com/prinsss/twitter-web-exporter and an auto-scroller?
+│   └── YouTube - yt-dlp is the best solution ever, to
+└── Piracy  
+    ├── Anything - Torrent trackers, private torrent trackers, sharing groups, whatever random site that offers stuff for free
+    ├── FLAC - Soulseek, Lucida.to, Telegram bots, the rest is gatekept
+    └── Music - Refer to FLAC, otherwise any Spotify downloader is fine for 320kbps
