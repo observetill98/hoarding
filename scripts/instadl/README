@@ -1,0 +1,5 @@
+uv init
+uv venv .venv
+source .venv/bin/activate
+uv pip install gallery-dl yt-dlp
+uv run main.py
